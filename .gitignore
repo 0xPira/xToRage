@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+account*.json
+cookies*.json
+!examples/account.example.json
+out*/
+payloads/
+decoded_local/
+remote_evidence/
+upload-result*.json
+retrieved-*
+*.log

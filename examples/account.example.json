@@ -1,0 +1,15 @@
+{
+  "label": "my-x-account",
+  "owner_id": "<numeric user id from twid or account>",
+  "bearer": "<x.com web bearer token>",
+  "cookies": {
+    "auth_token": "<auth_token cookie>",
+    "ct0": "<ct0 cookie>",
+    "twid": "u%3D<numeric user id>",
+    "guest_id": "<optional>",
+    "guest_id_ads": "<optional>",
+    "guest_id_marketing": "<optional>",
+    "personalization_id": "<optional>",
+    "__cf_bm": "<optional>"
+  }
+}
