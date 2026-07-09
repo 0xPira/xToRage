@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Local file-to-PNG chunk encoder for confirmed X Commerce rehost persistence tests"
 requires-python = ">=3.10"
 dependencies = [
-  "httpx>=0.27",
+  "httpx[http2]>=0.27",
   "Pillow>=10",
 ]
 
